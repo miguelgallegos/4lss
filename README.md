@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Overview
 
 Base project folder for a SilverStripe ([http://silverstripe.org](http://silverstripe.org)) installation. Requires additional modules to function:
@@ -41,3 +42,9 @@ and [installation from source](http://doc.silverstripe.org/framework/en/installa
 	GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, 
 	STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY 
 	OF SUCH DAMAGE.
+=======
+4lss
+====
+
+4Life project for member simulation
+>>>>>>> 518de4e49e54191a837a38a0a0bd87a7ce8f9395
