@@ -1,0 +1,63 @@
+/*font-family: 'Erica One', cursive;
+font-family: 'Istok Web', sans-serif;
+font-family: 'Asap', sans-serif;
+font-family: 'Dancing Script', cursive;
+*/
+body{
+  font-family: 'Asap';
+}
+header{
+  border-top: 3px solid #FF7000;
+}
+.header{
+	background: #fff;
+}
+
+.brand h1{
+  font-family: 'Dancing Script', cursive;
+  font-weight: 700;
+  font-size: 40px;
+  color: #000;
+}
+
+.typography h1, .typography h2, .typography h3, .typography h4, .typography h5, .typography h6
+,
+.header .primary li a, .main .secondary h3
+{
+  font-family: 'Istok Web';
+}
+.header .inner{
+  padding-top: 20px;
+}
+.brand p{
+  margin-bottom: 5px;
+}
+.header .primary li
+{
+  padding-bottom: 5px;
+}
+.header .primary li a{
+  text-transform: uppercase;
+  font-weight: normal;
+}
+.header .primary li.section a, .header .primary li.current a
+{
+  color: #313131;
+}
+.header .primary li a:hover{
+  color: #252525;
+}
+.main .secondary li.current a.current{
+  color: #7A3100;
+}
+.typography a, .typography a.intro{
+	color: #7A3100;
+}
+.typography a:hover{
+	color: #7A3100;
+  border: none;
+  text-decoration: underline;
+}
+.main .secondary li.section, .main .secondary li.current{
+  background-color: #fff;
+}
